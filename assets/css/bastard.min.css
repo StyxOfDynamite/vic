@@ -696,3 +696,8 @@ h1.blog-title {
 .social-blue {
 	color: #3b5998;
 }
+
+#menu_willsong > ul > li > a {
+	color: #228B22;
+	font-family: 'arch';
+}
