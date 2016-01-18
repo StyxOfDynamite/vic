@@ -692,3 +692,7 @@ h1.blog-title {
 #menu_willsong > ul > li > a {
     color: #f8f8f8;
 }
+
+body > main > article > section > div > ul > li > a {
+	color: #3b5998;
+}
