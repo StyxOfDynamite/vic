@@ -693,6 +693,6 @@ h1.blog-title {
     color: #f8f8f8;
 }
 
-body > main > article > section > div > ul > li > a {
+.social-blue {
 	color: #3b5998;
 }
