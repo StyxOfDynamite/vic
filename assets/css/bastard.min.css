@@ -687,6 +687,7 @@ body > header > div.vertical > div > ul > li > a:active
 h1.blog-title {
     font-size: 6rem;
     letter-spacing: 0.1rem;
+    color: #F8F8F8;
 }
 #menu_willsong > ul > li > a {
     color: #f8f8f8;
