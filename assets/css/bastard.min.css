@@ -697,7 +697,13 @@ h1.blog-title {
 	color: #3b5998;
 }
 
-#menu_willsong > ul > li > a {
-	color: #228B22;
+#menu_willsong > ul > li > a, 
+#menu_willsong > ul > li > a:link, 
+#menu_willsong > ul > li > a:visited,
+#menu_willsong > ul > li > a:hover,
+#menu_willsong > ul > li > a:focus,
+#menu_willsong > ul > li > a:active {
+	color: #778899;
 	font-family: 'arch';
+	text-decoration: none;
 }
